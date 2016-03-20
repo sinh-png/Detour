@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<assets path="assets/fonts/ClearSans-Regular.ttf" rename="detour/fonts/default-regular.ttf" embed="true" />
+	<assets path="assets/fonts/ClearSans-Bold.ttf" rename="detour/fonts/default-bold.ttf" embed="true" />
+	<assets path="assets/skins" rename="detour/skins" embed="true" />
+	
+	<haxelib name="flixel" />
+	<haxelib name="flixel-addons" />
+</project>
